@@ -27,6 +27,6 @@ What I understand so far is that you are both more familiar with Python than Jav
 
 1. So for starters I'll make sure you have the right stuff for python.  If you don't already use Anaconda, then go to http://continuum.io/downloads and install it.  Basically, it puts all the libraries you need for Python onto your machine and makes it easier to install more in the future.  Once you have Anaconda then you'll have the Anaconda Command Prompt.  If you use Mac then you can also just use bash, or if Windows you can use PowerShell or Windows Command Prompt.
 2. From your desired shell, you can type the command "ipython notebook.  This should produce the following output:
-![Alt Text]https://github.com/jocr1627/playground/blob/master/images/screenshots/notebook.png
+![Alt text](https://github.com/jocr1627/playground/blob/master/images/screenshots/notebook.png)
 3. 
 
